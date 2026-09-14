@@ -5,7 +5,7 @@ corretagem, ele diz quanto pagar, em que guia e até quando.
 
 ## Como rodar no Windows
 
-Baixar o arquivo (.exe) no "Reliases". Colocar em um diretório específico e executa-lo.
+Baixar o arquivo (.exe) no "Releases" à direita da página. Colocar em um diretório específico e executa-lo.
 
 Se o Windows disser que "protegeu o computador", clique em **Mais informações →
 Executar assim mesmo**. É o aviso padrão de arquivo baixado da internet.
