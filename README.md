@@ -3,27 +3,9 @@
 Programa para apurar IR sobre operações em bolsa: você lança as notas de
 corretagem, ele diz quanto pagar, em que guia e até quando.
 
-Substitui a planilha Excel que deu origem a ele. Os dados passam a viver num
-banco próprio; o Excel entra uma vez só, para trazer o histórico, e depois pode
-ser aposentado.
-
 ## Como rodar no Windows
 
-**Uma vez só:** se o computador ainda não tem Python, baixe em
-[python.org/downloads](https://www.python.org/downloads/). Na primeira tela do
-instalador, marque **"Add python.exe to PATH"** — é a caixinha lá embaixo, e sem
-ela nada funciona.
-
-Depois:
-
-1. Baixe este repositório: botão verde **Code → Download ZIP**.
-2. Descompacte onde preferir (a Área de Trabalho serve).
-3. Dê **dois cliques em `Imposto de Renda.bat`**.
-
-Na primeira vez uma janela preta aparece por cerca de um minuto, preparando
-tudo. Nas seguintes o programa abre direto — e quando uma versão nova precisar
-de alguma biblioteca a mais, a janela preta reaparece por alguns segundos para
-instalá-la sozinha.
+Baixar o arquivo (.exe) no "Reliases". Colocar em um diretório específico e executa-lo.
 
 Se o Windows disser que "protegeu o computador", clique em **Mais informações →
 Executar assim mesmo**. É o aviso padrão de arquivo baixado da internet.
